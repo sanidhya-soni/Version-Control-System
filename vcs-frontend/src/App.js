@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import shreya from './components/shreya'
+import Shreya from './components/Shreya';
 
 // File: src/App.js
 import React from 'react';
@@ -24,7 +24,7 @@ const App = () => {
         </a>
       </header>
       <SimpleForm />
-      <shreya />
+      <Shreya />
     </div>
   );
 };
